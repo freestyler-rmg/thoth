@@ -14,8 +14,8 @@
   "bin": {
     "thoth": "index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Comen, Kangnana, Indaam, RxMxG",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.20.0"
   }

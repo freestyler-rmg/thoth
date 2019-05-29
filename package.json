@@ -1,6 +1,6 @@
 {
   "name": "@freestyler_rmg/thoth",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "Pug, Js, Scss Generator with Our Standardization",
   "main": "index.js",
   "scripts": {

@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/freestyler-rmg/thoth.git"
   },
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "bin": {
     "thoth": "index.js"
   },

@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/freestyler-rmg/thoth.git"
   },
+  "bin": {
+    "thoth": "./bin/thoth"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
 }

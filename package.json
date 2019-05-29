@@ -1,0 +1,11 @@
+{
+  "name": "@freestyler_rmg/thoth",
+  "version": "1.0.0-alpha.0",
+  "description": "Pug, Js, Scss Generator with Our Standardization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
